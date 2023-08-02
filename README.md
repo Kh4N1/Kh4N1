@@ -4,15 +4,11 @@
 
 > I am striving to achieve my goals.
 > <br />
-
- <p>- <i>An eager computer science student and backend developer with problem-solving abilities. Enthusiastic about programming and working to expand his skills. Prioritizing writing robust, good-quality code.</i></p>
-
 -   🌱 &nbsp;Currently trying to improve coding skills
 -   :computer: &nbsp;I’m learning & curious about Node.js, Express.js
 -   🌏 I’m currently living in IRAN (Tehran/Isfahan)
 -   📝 I am currently striving to be an effective personality in a corporate development team.
 -   💬 How to reach me arkhani104@gmail.com
-
 <br>
 
 ## 🛠️ Skills
