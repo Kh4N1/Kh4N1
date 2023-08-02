@@ -6,9 +6,9 @@
 > <br />
 -   🌱 &nbsp;Currently trying to improve coding skills
 -   :computer: &nbsp;I’m learning & curious about Node.js, Express.js
--   🌏 I’m currently living in IRAN (Tehran/Isfahan)
--   📝 I am currently striving to be an effective personality in a corporate development team.
--   💬 How to reach me arkhani104@gmail.com
+-   🌏   I’m currently living in IRAN (Tehran/Isfahan)
+-   📝   I am currently striving to be an effective personality in a corporate development team.
+-   💬   How to reach me arkhani104@gmail.com
 <br>
 
 ## 🛠️ Skills
