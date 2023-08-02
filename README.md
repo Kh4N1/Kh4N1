@@ -13,7 +13,7 @@
 -   📝 I am currently striving to be an effective personality in a corporate development team.
 -   💬 How to reach me arkhani104@gmail.com
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ## 🛠️ Skills
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<br><br><br><br>
+<br><br>
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
