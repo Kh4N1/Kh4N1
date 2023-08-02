@@ -27,10 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<table width="100%" >
+<table width="100%" align="center">
 
  <tr>
-    <td width="100%">
+    <td width="60%">
      
 ## 🛠️ Skills
 
