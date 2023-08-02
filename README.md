@@ -11,8 +11,9 @@
 </br>
 
 -   🔧 Currently trying to improve coding skills
+
 -   💡 I’m learning & curious about Node.js, Express.js
--   📖 I’m currently living in IRAN (Tehran/Isfahan)
+-   📖 I’m currently learning ...Flask.
 -   ❄️ I am currently striving to be an effective personality in a corporate development team.
 -   📫 How to reach me arkhani104@gmail.com
 
@@ -27,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<table width="100%" align="center">
+<table width="100%" >
 
  <tr>
     <td width="60%">
@@ -58,10 +59,8 @@ You can click the Preview link to take a look at your changes.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 </td>
-    
- </tr>
-</table>
-
+    <td>
+  
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
 <br/>
@@ -71,4 +70,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/Khan1_ar"><img src="https://img.shields.io/badge/x%20(twiiter)-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 
 </br>
-</br>
+
+  </td>
+ </tr>
+</table>
