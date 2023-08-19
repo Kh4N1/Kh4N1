@@ -44,6 +44,6 @@
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/alirezakhani104"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/alirezakhani104/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="http://t.me/arkhani104"><img src="https://img.shields.io/badge/telegram-00B4FF.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>&nbsp;
 <a href="https://twitter.com/Khan1_ar"><img src="https://img.shields.io/badge/x%20(twiiter)-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
